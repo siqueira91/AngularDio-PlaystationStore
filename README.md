@@ -4,4 +4,4 @@
 &bull; Recriando a página inicial da playstore
 Feito durante o curso de <b><i>Formação Angular Developer</b></i> da <b><i>DIO</b>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/siqueira91/AngularDio-PlaystationStore/main/2023-06-10_23-08.png">
